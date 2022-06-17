@@ -68,3 +68,4 @@ Currently available locales are:
 Main Credits go to [@eritislami](https://github.com/eritislami) for making evobot so pro..
 Get evobot repo here - 
 https://github.com/eritislami/evobot
+node index.js
